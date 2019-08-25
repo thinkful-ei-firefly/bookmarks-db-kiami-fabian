@@ -18,3 +18,7 @@
 {"message":"bookmark with id 1 found","level":"info"}
 {"message":"bookmark with id 12 not found","level":"error"}
 {"message":"bookmark with id 134 not found","level":"error"}
+{"message":"Unauthorized request","level":"error"}
+{"message":"bookmark with id e552648d-9bd0-46dd-811e-3341a017962f added","level":"info"}
+{"message":"Unauthorized request","level":"error"}
+{"message":"Unauthorized request to path: /134","level":"error"}
