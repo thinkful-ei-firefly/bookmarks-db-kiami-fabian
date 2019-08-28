@@ -17,7 +17,7 @@ app.use(helmet())
 app.use(cors())
 app.use(express.json())
 
-app.use(auth);
+//app.use(auth);
 app.use(errorHandled)
 
 app.get('/', (req, res) => {
